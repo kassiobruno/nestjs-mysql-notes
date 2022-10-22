@@ -22,17 +22,17 @@ e para executar o projeto:
 npm run start:dev
 ```
 <span align="center">
-![insert_note](/uploads/d678ae837101b6da09bd59a539aecac5/insert_note.png)
+![dbeaver]
 </span>
 
 <span align="center">
-![get_notes](/uploads/ed25711d208eb4d63d964fe38254e4e5/get_notes.png)
+![dockermysql]
 </span>
 
 <span align="center">
-![dockermysql](/uploads/22a635fec14baa214567e1b32fe97525/dockermysql.png)
+![get_notes]
 </span>
 
 <span align="center">
-![dbeaver](/uploads/86b02eaf7e9fef1ac84b8fb24faed9fb/dbeaver.png)
+![insert_note]
 </span>
